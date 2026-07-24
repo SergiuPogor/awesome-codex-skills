@@ -31,8 +31,11 @@
 
 A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
+## Give your skills real-world actions
 
-> **Want skills that do more than generate text?** Codex can send emails, create issues, post to Slack, and take actions across 1000+ apps. [See how →](./connect/)
+Skills tell your agent **how** to work. An MCP Gateway gives it secure access to the tools it needs.
+
+Composio [MCP Gateway](https://composio.dev/mcp-gateway) provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability.
 
 ---
 
